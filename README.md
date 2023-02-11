@@ -7,7 +7,7 @@ How to Setup the Project?
       go to the server directory and follow the below steps:
       -> npm install
       -> npm i -g json-server
-      -> json-server --watch users.json
+      -> json-server --watch db.json
 3. Client Setup:
      go to test app and then follow the below steps:
      -> npm install
