@@ -1,0 +1,131 @@
+{
+  "login": {},
+  "categories": [
+    "electronics",
+    "jewelery",
+    "men's clothing",
+    "women's clothing"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "item1",
+      "price": "50",
+      "category": "electronics",
+      "description": "This is good product",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80"
+    },
+    {
+      "id": 2,
+      "title": "item11",
+      "price": "500",
+      "category": "jewelery",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    },
+    {
+      "id": 11,
+      "title": "item1",
+      "price": "500",
+      "category": "jewelery",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    },
+    {
+      "id": 3,
+      "title": "item3",
+      "price": "200",
+      "category": "electronics",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    },
+    {
+      "id": 4,
+      "title": "item4",
+      "price": "5000",
+      "category": "electronics",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    },
+    {
+      "id": 5,
+      "title": "item5",
+      "price": "100",
+      "category": "electronics",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    },
+    {
+      "id": 6,
+      "title": "item6",
+      "price": "300",
+      "category": "electronics",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    },
+    {
+      "id": 7,
+      "title": "item7",
+      "price": "700",
+      "category": "electronics",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    },
+    {
+      "id": 8,
+      "title": "item8",
+      "price": "800",
+      "category": "electronics",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    },
+    {
+      "id": 9,
+      "title": "item9",
+      "price": "900",
+      "category": "electronics",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    },
+    {
+      "id": 10,
+      "title": "item10",
+      "price": "1000",
+      "category": "electronics",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    },
+    {
+      "id": 12,
+      "title": "item12",
+      "price": "10",
+      "category": "jewelery",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    },
+    {
+      "id": 13,
+      "title": "item13",
+      "price": "17",
+      "category": "men's clothing",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    },
+    {
+      "id": 14,
+      "title": "item14",
+      "price": "25",
+      "category": "men's clothing",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    },
+    {
+      "id": 15,
+      "title": "item15",
+      "price": "60",
+      "category": "women's clothing",
+      "description": "This is good product",
+      "image": "https://res.cloudinary.com/dsn9wmvji/image/upload/v1608208825/avatar/avatar_namrma.jpg"
+    }
+  ]
+}
